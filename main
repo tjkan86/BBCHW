@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html lang="eng">
+    <head>
+        <meta charset="utf-8">
+        <title>BBC Homework</title>
+    </head>
+    
+    
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="https://www.bbc.com/" target="_blank">BBC</a></li>
+                    <li><a href="https://account.bbc.com/signin?realm=%2F&clientId=Account&context=homepage&ptrt=https%3A%2F%2Fwww.bbc.com%2F&userOrigin=HOMEPAGE_GNL&isCasso=false&action=sign-in&redirectUri=https%3A%2F%2Fsession.bbc.com%2Fsession%2Fcallback%3Frealm%3D%2F&service=IdSignInService&nonce=rXLMNnVa-XkA2yduS1R-kOs-5OKNQ_jzDMDw" target="_blank">Sign in</a></li>
+                    <li><a href="https://www.bbc.com/" target="_blank" >Home</a></li>
+                    <li><a href="https://www.bbc.com/news" target="_blank" >News</a></li>
+                    <li><a href="https://www.bbc.com/sport" target="_blank">Sport</a></li>
+                    <li><a href="https://www.bbc.com/reel" target="_blank" >Reel</a></li>
+                    <li><a href="https://www.bbc.com/worklife" target="_blank">Worklife</a></li>
+                    <li><a href="https://www.bbc.com/travel" target="_blank">Travel</a></li>
+                    <li><a href="https://www.bbc.com/future" target="_blank">Future</a></li>
+                    <li><a href="https://www.bbc.com/culture" target="_blank">Culture</a></li>
+                    <li>More(dropdown)
+                    <li>Searchbar
+                </ul>
+            </nav>
+        </header>
+        <div>
+            <h1>Welcome to BBC.com</h1>
+            <h3>Thursday, 13 August</h3>
+            
+            <section class="Main">
+                <img src=https://c.files.bbci.co.uk/0BC5/production/_113931030_composite.jpg alt="Israel and UAE strike historic peace deal">
+                <h4> Israel and UAE strike historic peace deal</h4>
+                <p>Israel and the UAE agree to normalise relations, marking the third Israel-Arab peace deal.</p>
+                <span>MIDDLE EAST</span>
+            </section>
+            
+            <section class="Top">
+                <img src=https://ichef.bbci.co.uk/news/1024/branded_news/D39B/production/_113917145_gettyimages-144092698.jpg alt="Americans, go home: Tension at Canada-US border">
+                <h4>Americans, go home: Tension at Canada-US border</h4>
+                <span>CANADA</span>
+
+                <img src=https://ichef.bbci.co.uk/news/1024/branded_news/1771/production/_113910060_gettyimages-1219401083.jpg alt="How will the world vaccinate seven billion people?">
+                <h4>How will the world vaccinate seven biliion people?</h4>
+                <span>HEALTH</span>
+
+                <img src=https://ychef.files.bbci.co.uk/live/624x351/p08ngz84.jpg alt="The online 'prodcutivity gyms'">
+                <h4>The online 'productivity gyms'</h4>
+                <span>WORKLIFE</span>
+
+                <img src=https://ychef.files.bbci.co.uk/live/624x351/p08nccxx.jpg alt="The folk singer murdered for his music">
+                <h4>The folk singer murdered for his music</h4>
+                <span>CULTURE</span>
+            </section>
+        </div>
+        <footer>
+            <h2>News</h2>
+            <section class="news">
+                <img src=https://ichef.bbci.co.uk/news/1024/branded_news/6C7B/production/_113917772_062888947.jpg alt="Biden and Harris say Trump has left the US 'in tatters'">
+                <h4>Biden and Harris say Trump has left US 'in tatters'</h4>
+                <p>Joe Biden and running mate Kamala Harris call President DOnald Trump a "whining" incompetent leader.</p>
+                <span> US ELECTION 2020</span>
+
+                <img src=https://c.files.bbci.co.uk/EA08/production/_113921995_hi062881024.jpg alt="Women form 'solidarity chains' in Belarus protests">
+                <h4>Women form 'solidarity chains' in Belarus protests</h4>
+                <p>Women take to the streets of Minsk dressed in white as they demand an end to police brutality</p>
+                <span>EUROPE</span>
+                
+                <img src=https://c.files.bbci.co.uk/295F/production/_113919501_hi045965426.jpg alt="Trump say low-pressure shower heads won't wash">
+                <h4>Trump says low-pressure shower heads won't wash</h4>
+                <p>The US calls for rules to be eased after DOnald Trump complained of issues washing his hair.</p>
+                <span>US & CANADA</span>
+            </seciton>
+        </footer>
+    </body>
+</html>
